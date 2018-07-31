@@ -4,7 +4,6 @@
 int main( int argc, char* argv[] )
 {
   Zoo z;
-
   while( !std::cin.eof( ) )
   {
     std::string genre, name;
@@ -14,7 +13,6 @@ int main( int argc, char* argv[] )
 
   } // elihw
   std::cout << z << std::endl;
-
   return( 0 );
 }
 

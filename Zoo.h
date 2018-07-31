@@ -24,6 +24,8 @@ protected:
   TGenreList m_Genres;
 };
 
+#include "Zoo.hxx"
+
 #endif // __ZOO__H__
 
 // eof - Zoo.h
